@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Element Compiler Demo</title>
+
+<!--
+These files could all be combined. The unminified ones could be minified, etc.
+-->
+<script src="http://www.polymer-project.org/polymer/polymer.min.js"></script>
+<script src="register.js"></script>
+<script src="test-element-compiled.js"></script>
+
+<!-- The original, unprocessed element. -->
+<link rel="import" href="test-element.html">
+
+<body>
+  <test-element>regular element</test-element>
+  <test-element-compiled>compiled element</test-element-compiled>
+</body>
+
+</html>

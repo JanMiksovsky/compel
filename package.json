@@ -1,0 +1,14 @@
+{
+  "name": "compel",
+  "title": "CompEl element compiler",
+  "description": "Compiles HTML custom elements to JavaScript",
+  "version": "0.0.1",
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:JanMiksovsky/compel.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "htmlparser": "*"
+  }
+}

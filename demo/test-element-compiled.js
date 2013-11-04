@@ -1,0 +1,1 @@
+r("test-element-compiled","\n  Hello, <content></content>.\n");
