@@ -27,3 +27,4 @@ Install
 ```
 
 Edit the demo element at demo/test-element.html, then run `grunt` to recompile.
+The demo is visible at http://github.com/JanMiksovsky/compel/demo.
